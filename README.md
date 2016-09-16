@@ -1,2 +1,2 @@
 # Hello-World
-first ever repo ¯\_(ツ)_/¯
+first ever repo ¯\\_(ツ)_/¯
